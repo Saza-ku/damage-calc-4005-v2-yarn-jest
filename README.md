@@ -1,5 +1,5 @@
 # damage-calc
-[![Saza-ku](https://circleci.com/gh/Saza-ku/damage-calc-4005-v2-yarn-test-jest.svg?style=svg)](https://app.circleci.com/pipelines/github/Saza-ku/damage-calc-4005-v2-yarn-jest)
+[![CircleCI](https://circleci.com/gh/Saza-ku/damage-calc-4005-v2-yarn-test-jest.svg?style=svg)](https://app.circleci.com/pipelines/github/Saza-ku/damage-calc-4005-v2-yarn-jest)
 
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
